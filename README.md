@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet me
 <p>
-  <a href ="https://www.instagram.com/binbin_da/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href ="https://www.instagram.com/binbin_da/" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   
 </p>
 
