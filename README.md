@@ -60,6 +60,7 @@
     <img
       src="https://img.shields.io/badge/ekqlsdlrns@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <a href="https://www.instagram.com/binbinda"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/binbinda"/></a>
 </div>
 
 <!--
